@@ -1,0 +1,85 @@
+#bo {
+    font-family: Arial, sans-serif;
+    background-image: url("C:\Users\madhe\Downloads\close-up-image-programer-working-his-desk-office (1).jpg");
+    background-size: cover;
+    height: 100vh;
+    padding-top: 100px;
+
+}
+
+.container1 {
+
+    background-size: cover;
+    background-color: rgb(252, 254, 255);
+    height:600px ;
+    width: 500px;
+    padding: 16px;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    border-radius: 10px;
+    border:5px;
+
+    margin-top:150px;
+    margin-left: 500px;
+}
+
+.forgot{
+
+    margin-left: 130px;
+
+
+}
+
+img{
+
+    margin-left: 5px;
+    border-radius: 10px;
+    height: 100px;
+
+
+}
+#f{
+    font-family: Arial, sans-serif;
+    margin-right: 450px;
+}
+#textbox{
+    height:fit-content;
+    background-color: aliceblue;
+    width: 300px;
+
+    border-radius: 10px;
+
+
+}
+#button1{
+    background-color: rgb(222, 53, 15);
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius:10px;
+    font-family: Arial, sans-serif;
+    width: 330px;
+    margin-left: px;
+}
+#rem{
+    font-family: Arial, sans-serif;
+}
+#f{
+    margin-left: 170px;
+}
+.summa
+{
+    margin-left:10 px;
+}
+#bhavi
+{
+    margin-right:160px;
+}
+#bhavi2
+{
+    margin-right:240px;
+}
